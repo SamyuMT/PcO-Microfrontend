@@ -91,7 +91,7 @@ Cada módulo (**products**, **cart**, y **container**) tiene su propio directori
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/SamyuMT/PcO-Microfrontend.git
 cd Microfrontends
 ```
 
@@ -119,6 +119,3 @@ http://localhost:8080
 El código fuente de la PoC debe cargarse en un repositorio bajo una rama que lleve el nombre del tema, por ejemplo: `microfrontends-poc`.
 
 ---
-
-## Contacto
-Si tienes alguna duda o inquietud, no dudes en contactarme. ¡Estoy aquí para ayudarte! 😊
