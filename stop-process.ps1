@@ -1,0 +1,1 @@
+Get-NetTCPConnection -LocalPort 8080,8081,8082 | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force }
